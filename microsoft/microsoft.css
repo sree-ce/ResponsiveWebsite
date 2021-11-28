@@ -1,0 +1,97 @@
+.microsoft-logo{
+    margin-top: -7px;
+    width: 100px;
+    margin-left: 67px;
+}
+.nav-link{
+    font-size: smaller;
+    color: black;
+    margin-left: 20px;
+}
+.nav-action{
+    
+    font-size: smaller;
+    color: black;
+    text-decoration: none;
+    margin-right: 240px;
+    
+    
+}
+.bullet-remove{
+    list-style-type: none;
+    
+}
+.title{
+    font-size: 14px;
+    color:rgb(37, 36, 36);
+    margin-left: -12px;
+    font-weight: bold;
+    
+}
+.list-link{
+    
+    font-size: 12px;
+    color: black;
+    margin-left: -14px;
+    text-decoration: none;
+    flex-direction: column;
+    
+    
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+    width: 341px;
+    height: 341px;
+   
+}
+
+.bi-search {
+    transform: rotateY(180deg);
+    margin-left: 30px;
+
+}
+.bi-cart3{
+    margin-left: 30px;
+}
+.icon-link{
+    text-decoration: none;
+    color: black;
+}
+.user-icon{
+    height: 40px;
+    width: 42px;
+    margin-left: 15px;
+    border-radius: 5px;
+}
+.slides{
+    width: 1180px;
+    margin-left: 78px; 
+}
+  
+
+.group-icons{
+    width: 130px;
+    height: 100px;
+    margin-left: 288px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.link-remove{
+    text-decoration: none;
+    color: rgb(173, 76, 76);
+    margin-left: 20px;
+    padding-left: 57px;
+}
+.text{
+    font-weight: normal;
+    text-align: center;
+    width: 118px;
+    padding-left: 2px;
+    
+}
+.icon-to{
+    padding-left: 35px;
+}
